@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammedbariya
 - I’m interested in web development
-- I am currently studing BCA 
+- I am currently studying BCA 
 - My website: codewithmmb.site
 
 <!---
