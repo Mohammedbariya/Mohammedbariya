@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohammedbariya
 - I’m interested in web development
 - I am currently studying BCA 
-- My website: codewithmmb.xyz
 
 <!---
 Mohammedbariya/Mohammedbariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
